@@ -10,7 +10,21 @@ body {
 
 #webcam{
     position: relative;
-    width: 200px;
-    height:300px;
+    width: 175px;
+    height:275px;
 }
 
+h1 {
+    background: url("http://25.media.tumblr.com/f717b2b22c1c647c9eed6f3f5fbf75df/tumblr_myhv7tzC451s60oo7o1_500.gif");
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+	font-size:90px;
+	background-repeat:repeat;
+}
+h2 {
+    background: url("https://78.media.tumblr.com/1ca206151bf50f8f16d8898f64121aa4/tumblr_nmldv3sHht1t3tjlko3_540.gif");
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+	font-size:50px;
+	background-repeat:repeat;
+}
